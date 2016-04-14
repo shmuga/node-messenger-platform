@@ -1,0 +1,42 @@
+{
+  "name": "node-messenger-platform",
+  "version": "0.0.1",
+  "description": "Facebook Messenger Platform node adapter. ",
+  "main": "index.js",
+  "scripts": {
+    "lint": "node_modules/.bin/eslint lib/",
+    "test": "mocha --recursive --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shmuga/node-messenger-platform.git"
+  },
+  "keywords": [
+    "node",
+    "facebook",
+    "messenger",
+    "bot",
+    "chat"
+  ],
+  "author": "Mark mail.ormark@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shmuga/node-messenger-platform/issues"
+  },
+  "homepage": "https://github.com/shmuga/node-messenger-platform#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^2.7.0",
+    "eslint-config-airbnb": "^7.0.0",
+    "eslint-plugin-jsx-a11y": "^0.6.2",
+    "eslint-plugin-react": "^4.3.0",
+    "istanbul": "^0.4.3",
+    "mocha": "^2.4.5",
+    "proxyquire": "^1.7.4",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "ramda": "^0.21.0",
+    "request-promise": "^2.0.1"
+  }
+}
