@@ -1,6 +1,6 @@
 {
   "name": "node-messenger-platform",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Facebook Messenger Platform node adapter. ",
   "main": "index.js",
   "scripts": {
