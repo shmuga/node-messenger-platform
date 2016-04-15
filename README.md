@@ -17,7 +17,7 @@ There are two types of usage this node module:
   
   // stateless usage
   FBPlatform.send(token, {id: '123'}, {text: 'hello'})
-  FBPlatform.sendImage(token, recipient, message, notificationType)
+  FBPlatform.sendImage(token, recipient, url, notificationType)
   
   // or statefull usage
   const Bot = FBPlatform.Bot(token)
