@@ -5,7 +5,7 @@ Write your best chat bot using best async techology!
 
 ##Installation
 ```
-npm install -S node-messanger-platform
+npm install -S node-messenger-platform
 ```
 
 ##Usage
