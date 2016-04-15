@@ -16,7 +16,7 @@ There are two types of usage this node module:
   const FBPlatform = require('node-messanger-platform')
   
   // stateless usage
-  FBPlatform.send(token, recipient, message, notificationType)
+  FBPlatform.send(token, {id: '123'}, {text: 'hello'})
   FBPlatform.sendImage(token, recipient, message, notificationType)
   
   // or statefull usage
