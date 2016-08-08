@@ -31,7 +31,7 @@
     "eslint-plugin-jsx-a11y": "^1.5.5",
     "eslint-plugin-react": "^6.0.0",
     "istanbul": "^0.4.4",
-    "mocha": "^3.0.1",
+    "mocha": "^3.0.2",
     "proxyquire": "^1.7.10"
   },
   "dependencies": {
