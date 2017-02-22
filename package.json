@@ -26,7 +26,7 @@
   "homepage": "https://github.com/shmuga/node-messenger-platform#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "eslint": "^3.8.1",
+    "eslint": "^3.16.1",
     "eslint-config-airbnb": "^12.0.0",
     "eslint-plugin-jsx-a11y": "^2.2.3",
     "eslint-plugin-react": "^6.4.1",
