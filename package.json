@@ -36,6 +36,6 @@
   },
   "dependencies": {
     "ramda": "^0.22.1",
-    "request-promise": "^4.1.1"
+    "request-promise": "^4.2.1"
   }
 }
