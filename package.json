@@ -25,17 +25,17 @@
   },
   "homepage": "https://github.com/shmuga/node-messenger-platform#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "eslint": "^3.8.1",
-    "eslint-config-airbnb": "^12.0.0",
-    "eslint-plugin-jsx-a11y": "^2.2.3",
-    "eslint-plugin-react": "^6.4.1",
+    "chai": "^4.1.0",
+    "eslint": "^4.2.0",
+    "eslint-config-airbnb": "^15.0.2",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.1.0",
     "istanbul": "^0.4.5",
     "mocha": "^3.1.2",
     "proxyquire": "^1.7.10"
   },
   "dependencies": {
-    "ramda": "^0.22.1",
+    "ramda": "^0.24.1",
     "request-promise": "^4.1.1"
   }
 }
