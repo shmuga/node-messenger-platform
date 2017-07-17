@@ -1,5 +1,7 @@
 #Facebook Messenger Platform
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/shmuga/node-messenger-platform.svg)](https://greenkeeper.io/)
+
 Node Facebook Messanger Platform adapter built with promises.   
 Write your best chat bot using best async techology!
 
